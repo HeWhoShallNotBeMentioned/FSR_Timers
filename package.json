@@ -23,7 +23,9 @@
     "body-parser": "1.14.1",
     "express": "4.13.3",
     "fs": "0.0.2",
-    "path": "0.12.7"
+    "path": "0.12.7",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   },
   "devDependencies": {
     "concurrently": "2.2.0"
